@@ -2,7 +2,6 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Projeto de transcrição de vídeo do YouTube</title>
 </head>
 <body>
   <h1>Projeto de transcrição de vídeo do YouTube</h1>
